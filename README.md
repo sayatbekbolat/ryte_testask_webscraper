@@ -5,6 +5,6 @@ There is 2 python scrips:
   task2.py webscrapes a website to .csv file
 
 Stack:
-  python3,
-  pandas,
-  selenium
+  <li><a href="https://www.python.org/">python3</a></li>
+  <li><a href="https://pandas.pydata.org/">pandas</a></li>
+  <li><a href="https://www.selenium.dev/">Selenium</a></li>
